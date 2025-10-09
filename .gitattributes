@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+# Proyecto de examen
+* text=Este repositorio forma parte del examen de control de versiones con Git.
