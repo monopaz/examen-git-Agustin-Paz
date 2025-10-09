@@ -1,7 +1,21 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+<<<<<<< HEAD
 # Proyecto de examen
 * text=Este repositorio forma parte del examen de control de versiones con Git.
 ## Informacion adicional 
 Autor= Agustin Paz
 Fecha= 09/10/2025
+=======
+# Proyecto de examen (version del codigo)
+* text=Este repositorio forma parte del examen de control de versiones con Git.
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "Programa de ejemplo del examen Git." << endl;
+    return 0;
+}
+
+>>>>>>> Nuevo-Codigo-Agustin-Paz-
